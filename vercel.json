@@ -1,0 +1,11 @@
+{
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
